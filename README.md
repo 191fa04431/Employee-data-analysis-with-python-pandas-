@@ -1,4 +1,4 @@
-# Employee Data Analysis with Python  
+# Employee Data Analysis with Python 
 
 This project involves analyzing employee data using Python's powerful data manipulation and visualization libraries. The dataset contains various employee attributes, and several analyses are performed to extract meaningful insights.  
 
