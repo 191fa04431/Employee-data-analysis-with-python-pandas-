@@ -37,7 +37,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns 
 
 
-# laoding the dataset 
+# laoding the dataset
 
 data = pd.read_csv(r"C:\Users\ch.avinash chowdary\Downloads\dataset_for_analysis.csv")
 print (data)
